@@ -1,0 +1,12 @@
+- Developed a Single Page Application using Angular whose work is to fetch movie from TMDB API and 
+ add/remove the movie to the favorite list of the authenticated user.
+
+
+- Added different modules like Login, Trending movies, Search module, Logout, Add to Favorites, etc. 
+
+- Used the TMDB API for fetching the data of movies (developers.themoviedb.org/3/getting-started/introduction) 
+and once the user gets authenticated, he/she is able to add or remove movie in their favorite list.
+
+Also, a user can search any movie based on some keyword.
+
+Technologies used : Angular, TMDB API, JavaScript, TypeScript, etc
